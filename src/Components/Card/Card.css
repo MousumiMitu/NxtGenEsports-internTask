@@ -1,7 +1,6 @@
 .card-section {
-  width: 80%;
+  width: 90%;
   margin: 100px auto;
-
   display: grid;
   grid-template-columns: repeat(3, 1fr);
 }
@@ -10,7 +9,7 @@
 .display-card3 {
   width: 95%;
   margin: 10px auto;
-  padding: 20px 15px;
+  padding: 30px 15px;
 }
 .display-card1 > h6,
 .display-card2 > h6,

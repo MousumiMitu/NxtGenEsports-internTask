@@ -15,7 +15,9 @@ const Header = () => {
             className="col-md-6 content-box"
             // style={{ border: "1px solid red" }}
           >
-            <h1>Data Analytics</h1>
+            <h1 className="first-title">
+              Data Analytics <span></span>
+            </h1>
             <h1>solutions for startup</h1>
             <h1>Agency</h1>
             <p>

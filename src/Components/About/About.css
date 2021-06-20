@@ -6,9 +6,7 @@
 .about-content > p {
   margin: 1.4rem 0;
 }
-.about-content {
-  border: 1px solid red;
-}
+
 .btn-3 {
   outline: none;
   border: 1px solid black;
