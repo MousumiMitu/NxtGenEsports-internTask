@@ -52,8 +52,7 @@
 .img-section > img {
   width: 105%;
   position: absolute;
-  top: 50%;
-  transform: translateY(20%);
+  top: 50px;
 }
 .custom-shape-divider-bottom-1624190352 {
   position: absolute;

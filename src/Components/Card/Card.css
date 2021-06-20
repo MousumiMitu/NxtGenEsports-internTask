@@ -1,14 +1,59 @@
 .card-section {
   width: 80%;
   margin: 100px auto;
-  border: 1px solid red;
+
   display: grid;
   grid-template-columns: repeat(3, 1fr);
 }
 .display-card1,
 .display-card2,
 .display-card3 {
-  border: 1px solid green;
   width: 95%;
-  margin: 0 auto;
+  margin: 10px auto;
+  padding: 20px 15px;
+}
+.display-card1 > h6,
+.display-card2 > h6,
+.display-card3 > h6 {
+  color: #bab1b2;
+}
+.display-card1 > h3,
+.display-card2 > h3,
+.display-card3 > h3 {
+  color: #020006;
+  font-size: 1rem;
+  margin: 15px 0;
+  font-weight: bold;
+}
+.display-card1 {
+  background: #f0f0fc;
+}
+.display-card2 {
+  background: #fbeff1;
+  transform: translateY(-15px);
+}
+.display-card3 {
+  background: #effbf1;
+}
+.ball-1,
+.ball-2,
+.ball-3 {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  background: #bfc4fb;
+  position: relative;
+}
+.ball-2 {
+  background: #fcbec3;
+}
+.ball-3 {
+  background: #ccf1d2;
+}
+.ball-1 > img,
+.ball-2 > img,
+.ball-3 > img {
+  position: absolute;
+  right: -15px;
+  width: 110%;
 }

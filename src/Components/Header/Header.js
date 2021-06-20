@@ -1,6 +1,6 @@
 import React from "react";
 import Navbar from "../Navbar/Navbar";
-import img from "../../images/img2.jpg";
+import img from "../../images/Untitled-2.png";
 import "./Header.css";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faCheck } from "@fortawesome/free-solid-svg-icons";

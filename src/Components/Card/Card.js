@@ -10,26 +10,26 @@ const Card = () => {
           <h3>
             Data Visualization <br /> Practices to Improve
           </h3>
-          <div>
-            <span></span>
+          <div className="ball-1">
+            <img src="https://img.icons8.com/material-two-tone/24/000000/long-arrow-right.png" />
           </div>
         </div>
         <div className="display-card2">
-          <h6>Solutions Visualization</h6>
+          <h6>Data Consulting</h6>
           <h3>
-            Data Visualization <br /> Practices to Improve
+            Consulting on Invoice data <br /> capture
           </h3>
-          <div>
-            <span></span>
+          <div className="ball-2">
+            <img src="https://img.icons8.com/material-two-tone/24/000000/long-arrow-right.png" />
           </div>
         </div>
         <div className="display-card3">
-          <h6>Solutions Visualization</h6>
+          <h6>Data Case Studies </h6>
           <h3>
-            Data Visualization <br /> Practices to Improve
+            Delivering the insights <br /> Data Case
           </h3>
-          <div>
-            <span></span>
+          <div className="ball-3">
+            <img src="https://img.icons8.com/material-two-tone/24/000000/long-arrow-right.png" />
           </div>
         </div>
       </div>
