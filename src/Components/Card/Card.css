@@ -1,0 +1,14 @@
+.card-section {
+  width: 80%;
+  margin: 100px auto;
+  border: 1px solid red;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
+.display-card1,
+.display-card2,
+.display-card3 {
+  border: 1px solid green;
+  width: 95%;
+  margin: 0 auto;
+}
